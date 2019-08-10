@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM arm32v7/alpine:3.9
 
 LABEL description "Simple forum software for building great communities" \
       maintainer="Hardware <hardware@mondedie.fr>, Magicalex <magicalex@mondedie.fr>"
